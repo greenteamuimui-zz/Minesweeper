@@ -10,6 +10,10 @@ class Tile
     @count = nil
   end
 
+  def self.tile_from_position(position)
+    # Tile.new(@board.)
+  end
+
   def neighbors
 
   end
